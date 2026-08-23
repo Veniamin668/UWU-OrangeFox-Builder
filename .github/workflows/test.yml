@@ -20,7 +20,7 @@ jobs:
         USER_NAME: 'Veniamin668'
         USER_EMAIL: 'venik1821@gmail.com'
         DEVICE_TREE: 'https://github.com/Veniamin668/device_redmi_klein'
-        DEVICE_TREE_BRANCH: '12.1'
+        DEVICE_TREE_BRANCH: 'lisa'
         DEVICE_PATH: 'device/xiaomi/missi'
         DEVICE_NAME: 'klein'
         BUILD_TARGET: 'vendorboot'
