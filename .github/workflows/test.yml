@@ -22,7 +22,7 @@ jobs:
         DEVICE_TREE: 'https://github.com/Veniamin668/device_redmi_klein'
         DEVICE_TREE_BRANCH: 'lisa'
         DEVICE_PATH: 'device/xiaomi/missi'
-        DEVICE_NAME: 'klein'
+        DEVICE_NAME: 'missi'
         BUILD_TARGET: 'vendorboot'
         TG_CHAT_ID: '${{ secrets.TG_CHAT_ID }}'
         TG_TOKEN: '${{ secrets.TG_TOKEN }}'
