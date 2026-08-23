@@ -17,14 +17,14 @@ jobs:
     - name: OrangeFox Build
       uses: ./
       with:
-        USER_NAME: 'UntuKemeng'
-        USER_EMAIL: 'jarbull87@gmail.com'
-        DEVICE_TREE: 'https://github.com/UntuKemeng/ORF_device_vivo_1938'
+        USER_NAME: 'Veniamin668'
+        USER_EMAIL: 'venik1821@gmail.com'
+        DEVICE_TREE: 'https://github.com/Veniamin668/device_redmi_klein'
         DEVICE_TREE_BRANCH: '12.1'
-        DEVICE_PATH: 'device/vivo/1938'
-        DEVICE_NAME: '1938'
-        BUILD_TARGET: 'recovery'
+        DEVICE_PATH: 'device/xiaomi/missi'
+        DEVICE_NAME: 'klein'
+        BUILD_TARGET: 'vendorboot'
         TG_CHAT_ID: '${{ secrets.TG_CHAT_ID }}'
         TG_TOKEN: '${{ secrets.TG_TOKEN }}'
-        MAINTAINER_URL: 'https://i.ibb.co.com/8gyjXq06/maintainer.png'
-        GH_RELEASE: 'false'
+        MAINTAINER_URL: 'https://i.ibb.co.com/Veniamin668/maintainer.png'
+        GH_RELEASE: 'true'
