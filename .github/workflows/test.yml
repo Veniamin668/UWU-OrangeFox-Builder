@@ -26,5 +26,5 @@ jobs:
         BUILD_TARGET: 'vendorboot'
         TG_CHAT_ID: '${{ secrets.TG_CHAT_ID }}'
         TG_TOKEN: '${{ secrets.TG_TOKEN }}'
-        MAINTAINER_URL: 'https://i.ibb.co.com/Veniamin668/maintainer.png'
+        MAINTAINER_URL: 'https://i.ibb.co.com/8gyjXq06/maintainer.png'
         GH_RELEASE: 'true'
